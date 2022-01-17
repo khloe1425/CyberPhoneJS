@@ -22,7 +22,7 @@ function renderProduct(mangSP) {
         contentHTML += `
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="card cardPhone">
-                        <img src="../../assets/img/${item.hinhAnh}" class="card-img-top" alt="...">
+                        <img src="./assets/img/${item.hinhAnh}" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="d-flex justify-content-between">
                                 <div>
